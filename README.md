@@ -2,4 +2,4 @@
 
 ## ¿Cómo funciona?
 
-Con este sencillo código podrás saber si un número es par o es impar, para ello debes ejecutar el código, y despues ejecutar por la consola el comando *python parimapares.py*
+Con este sencillo código podrás saber si un número es par o es impar, para ello debes ejecutar el código, y despues ejecutar por la consola el comando *python parimpar.py*
